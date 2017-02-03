@@ -6,7 +6,7 @@
 ##Weekly topics with repos
 Week no | Topic
 ---|---
-01 | Operating Systems and Cloud solution
+01 | [Operating Systems and Cloud solution](https://github.com/cphdat2sem2017-B/Week1-Operating-systems)
 02 | Database
 03 | Frontend 1
 04 | Frontend 2
@@ -15,3 +15,5 @@ Week no | Topic
 07 | SCRUM
 08 | GIT
 09 | Project
+
+
