@@ -7,9 +7,9 @@
 Week no | Topic
 ---|---
 01 | [Operating Systems and Cloud solution](https://github.com/cphdat2sem2017-B/Week1-Operating-systems)
-02 | Database
-03 | Frontend 1
-04 | Frontend 2
+02 | [Database](https://github.com/cphdat2sem2017-B/Week2-Database)
+03 | [Frontend development part 1](https://github.com/cphdat2sem2017-B/Week3-Frontend1)
+04 | Frontend part 2
 05 | Algorithms
 06 | Requirements spec.
 07 | SCRUM
