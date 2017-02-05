@@ -20,6 +20,8 @@
 
 # word #
 **/*.docx
+**/*.xlsx
+**/*.pptx
 
 # Exercise solutions #
 **/solution/
