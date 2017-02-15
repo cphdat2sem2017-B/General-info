@@ -1,7 +1,10 @@
 #General information about 2. semester
 
 ##Semester plan
-[Google sheet here](https://docs.google.com/spreadsheets/d/122kKwOEszJpmfagH21k-2wGdMJ5C7E-iCTPfpemz50s/edit?usp=sharing)
+[Google sheet here](https://docs.google.com/spreadsheets/d/122kKwOEszJpmfagH21k-2wGdMJ5C7E-iCTPfpemz50s/edit?usp=sharing)  
+
+##Install git
+[Get it here](https://git-scm.com/downloads)
 
 ##Weekly topics with repos
 Week no | Topic
