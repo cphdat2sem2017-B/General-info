@@ -25,9 +25,10 @@ Week no | Topic
 
 ##Studypoint exercises 
 There are 210 total studypoints in this semester. They can be achieved like this:  
+
 **Exercise** | **Study points**
 ---|---
-Participation	| 42 points
+Participation	| 42 points  
 [Linux Server](https://github.com/cphdat2sem2017-B/Week1-Operating-systems/blob/master/study/day5studypointExercise.md)	| 15 points
 Database	| 14 points
 Frontend1	| 14 points
