@@ -1,4 +1,7 @@
 #General information about 2. semester
+For the overall structure of the semester, we attempt to have weekly topics.  
+Within each week we have a 4-1 system. 4 days of teaching and daily exercise + 1 day of studypoint exercise with no teaching on fridays. 
+For the period of doing the semester project we try instead to have 4 days of working on the project and 1 (sometimes 2) days of teaching. The teaching in this period is meant to be only topics that are immidiately relevant for the project work.
 
 ##Semester plan
 [Google sheet here](https://docs.google.com/spreadsheets/d/122kKwOEszJpmfagH21k-2wGdMJ5C7E-iCTPfpemz50s/edit?usp=sharing)  
@@ -22,7 +25,7 @@ Week no | Topic
 
 ##Studypoint exercises 
 There are 210 total studypoints in this semester. They can be achieved like this:  
-Exercise | Study points
+**Exercise** | **Study points**
 ---|---
 Participation	| 42 points
 [Linux Server](https://github.com/cphdat2sem2017-B/Week1-Operating-systems/blob/master/study/day5studypointExercise.md)	| 15 points
