@@ -14,8 +14,8 @@ Week no | Topic
 ---|---
 01 | [Operating Systems and Cloud solution](https://github.com/cphdat2sem2017-B/Week1-Operating-systems)
 02 | [Database](https://github.com/cphdat2sem2017-B/Week2-Database)
-03 | [Frontend development part 1](https://github.com/cphdat2sem2017-B/Week3-Frontend1)
-04 | Frontend part 2
+03 | [Backend development part 1](https://github.com/cphdat2sem2017-B/Week3-Backend)
+04 | [Frontend and miniproject](https://github.com/cphdat2sem2017-B/Week4-Frontend) 
 05 | Algorithms
 06 | Requirements spec.
 07 | SCRUM
@@ -30,9 +30,9 @@ There are 210 total studypoints in this semester. They can be achieved like this
 ---|---
 Participation	| 42 points  
 [Linux Server](https://github.com/cphdat2sem2017-B/Week1-Operating-systems/blob/master/study/day5studypointExercise.md)	| 15 points
-Database	| 14 points
-Frontend1	| 14 points
-Mini project Web shop	| 25 points
+[Database](https://github.com/cphdat2sem2017-B/Week2-Database/blob/master/Exercises/SQLExercises.pdf)	| 14 points
+[Backend](https://github.com/cphdat2sem2017-B/Week3-Backend/blob/master/exercises/Week%203-SP-WebApp.pdf)	| 14 points
+[Mini project Web shop](https://github.com/cphdat2sem2017-B/Week4-Frontend/blob/master/readme.md)	| 25 points
 Algorithm	| 13 points
 Requirements	| 12 points
 Sprint reviews	| 48 points
